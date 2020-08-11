@@ -1,3 +1,4 @@
+[CI](https://github.com/ertush/docker-workflow/workflows/.github/workflows/main.yml/badge.svg)
 # Hello world docker action
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
@@ -20,7 +21,7 @@ uses: actions/hello-world-docker-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
 
-- [] Helpful  
-- [] Useful
-- [] Not Useful
+ - [ ] Helpful  
+ - [ ] Useful
+ - [ ] Not Useful
  
